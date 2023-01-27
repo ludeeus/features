@@ -1,6 +1,6 @@
 {
     "id": "homeassistant",
-    "version": "1.0",
+    "version": "1.0.0",
     "name": "Home Assistant",
     "documentationURL": "https://github.com/ludeeus/features/tree/main/src/homeassistant",
     "description": "Install Home Assistant Core inside the devcontainer.",
