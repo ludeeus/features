@@ -1,0 +1,4 @@
+{
+	"name": "ludeeus/features",
+	"image": "mcr.microsoft.com/devcontainers/base:bullseye"
+}
