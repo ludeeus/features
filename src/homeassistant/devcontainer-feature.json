@@ -1,0 +1,18 @@
+{
+    "id": "homeassistant",
+    "version": "1.0",
+    "name": "Home Assistant",
+    "documentationURL": "https://github.com/ludeeus/features/tree/main/src/homeassistant",
+    "description": "Install Home Assistant Core inside the devcontainer.",
+    "options": {
+        "version": {
+            "type": "string",
+            "proposals": [
+                "stable",
+                "beta"
+            ],
+            "default": "stable",
+            "description": "Select or enter an Home Assistant version."
+        }
+    }
+}
